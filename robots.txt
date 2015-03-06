@@ -1,1 +1,7 @@
 
+# www.robotstxt.org/
+
+# block crawling of resources
+User-agent: *
+Disallow: /public/css/
+Disallow: /public/js/
