@@ -1,3 +1,10 @@
+# PT3 - PHP templating simple site
+
+
+
+______________________________________
+
+
 # rapid-site-development
 Structure for manually creating HTML/CSS sites
 
